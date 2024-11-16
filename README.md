@@ -13,7 +13,7 @@ A simple and intuitive password generator that allows you to create strong and s
 
 ## Demo
 
-You can see the application in action with the following demo link: [Demo Link](#)
+You can see the application in action with the following demo link: [Demo Link](https://mkraj-7838.github.io/Password-generator/)
 
 ## Installation
 
