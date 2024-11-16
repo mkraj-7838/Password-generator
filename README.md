@@ -2,6 +2,8 @@
 
 A simple and intuitive password generator that allows you to create strong and secure passwords with customizable options. This tool helps you generate passwords of varying lengths, including upper and lower case letters, numbers, and special symbols.
 
+![Password-Generator-ScreenShot](image.png)
+
 ## Features
 
 - **Customizable Length**: Choose password length from 1 to 20 characters.
